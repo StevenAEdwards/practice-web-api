@@ -11,6 +11,12 @@ Current Project Goals
 3. Upload Image to Docker Hub [x]
 4. Pull Image and Run it on "Prod" (HomeServer) [x]
 5. Upload project to Github [x]
-6. Update Readme [x]
-7. Update Readme with Local Build Documentation
-8. TBD
+6. write basic Readme [x]
+7. Update Readme with Local Build Documentation,docker run, docker compose, and env vars[]
+8. Create development and main branch []
+9. use github actions to auto build and upload image to docker hub when main is updated []
+10. API Authentication?
+11. 
+
+
+
